@@ -1,0 +1,12 @@
+.union{
+    width: 53.238px;
+    height: 24.944px;
+    fill: #D29F7A;
+    display: flex;
+    width: 128px;
+    padding: 6.881px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6.881px;
+}
