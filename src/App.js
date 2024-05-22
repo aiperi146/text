@@ -1,18 +1,14 @@
 import React from 'react';
-import './App.css';
-import Header from './Header';
-import Union from './Components/Union';
-
+import Header from './Components/Header';
+import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
-      <header>
-       <Header/>
-     <Union/> 
-      </header>
-     
+      <Header />
+      <Footer />
     </div>
   );
 }
 
 export default App;
+
